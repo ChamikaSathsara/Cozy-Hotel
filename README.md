@@ -14,12 +14,7 @@
 <h1>Hotel Mangemnt System</h1>
 <h4> <span> · </span> <a href="https://github.com/HasiniDilrangi/Cozy-Hotel/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/HasiniDilrangi/Cozy-Hotel/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/HasiniDilrangi/Cozy-Hotel/issues"> Request Feature </a> </h4>
 
-
 </div>
-
-# :notebook_with_decorative_cover: Table of Contents
-
-- [About the Project](#star2-about-the-project)
 
 
 # Cozy-Hotel
